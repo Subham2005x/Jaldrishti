@@ -1,0 +1,26 @@
+{
+  "check_internet.dart": {
+    "old_identifier_name": "checkInternet",
+    "new_identifier_name": "checkInternet",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "6085eca650bc0fe0632cdb57d0d26cfad1e0ee00f60eb0b9170e06ed08ee32f3",
+    "original_checksum": "6085eca650bc0fe0632cdb57d0d26cfad1e0ee00f60eb0b9170e06ed08ee32f3"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "415688756283460139fa2817ca006943c32a3ceb940e28ef903ca9cef86a1b08",
+    "original_checksum": "415688756283460139fa2817ca006943c32a3ceb940e28ef903ca9cef86a1b08"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "d2fac2d398182985532907cfc160b7d98b35e11df139f55e2ba5512dd59c64cb",
+    "original_checksum": "d2fac2d398182985532907cfc160b7d98b35e11df139f55e2ba5512dd59c64cb"
+  }
+}
