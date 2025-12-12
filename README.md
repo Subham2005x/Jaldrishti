@@ -261,7 +261,8 @@ This project is part of a water safety initiative. Please contact the repository
 
 **Smart India Hackathon 2025 - Team Jaldrishti**
 
-**Team Lead:** Subham
+**Team Lead:** Archita Mitra  
+**App Developer:** Subham
 
 This project was developed to address the critical challenge of crowdsourced ocean hazard reporting for the Ministry of Earth Sciences and INCOIS. Our solution aims to bridge the gap between real-time citizen observations and official disaster management systems, potentially saving lives and protecting coastal communities across India.
 
