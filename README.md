@@ -1,14 +1,39 @@
 # Jaldrishti - Water Safety & Hazard Reporting System
 
-Jaldrishti is a comprehensive water safety and hazard reporting platform that consists of both a web application and a mobile application. The project aims to help communities report and track water-related hazards, promoting safer water environments.
+## 🏆 Smart India Hackathon (SIH) 2025 Project
+
+Jaldrishti is a comprehensive water safety and hazard reporting platform developed as part of the **Smart India Hackathon 2025**. This innovative solution consists of both a web application and a mobile application, designed to help communities report and track water-related hazards, promoting safer water environments across India.
+
+### Problem Statement Details
+- **Problem Statement ID:** 25039
+- **Title:** Integrated Platform for Crowdsourced Ocean Hazard Reporting and Social Media Analytics
+- **Organization:** Ministry of Earth Sciences (MoES)
+- **Department:** Indian National Centre for Ocean Information Services (INCOIS)
+- **Category:** Software
+- **Theme:** Disaster Management
+
+### The Challenge
+India's vast coastline is vulnerable to various ocean hazards such as tsunamis, storm surges, high waves, coastal currents, and abnormal sea behavior. While agencies like INCOIS provide early warnings based on satellite data and numerical models, real-time field reporting from citizens and local communities is often unavailable or delayed. This project addresses the need for a unified platform that enables citizens, coastal residents, volunteers, and disaster managers to report observations during hazardous ocean events and monitor public communication trends.
 
 ## 🌊 Project Overview
 
-Jaldrishti combines modern web and mobile technologies to create an accessible platform for:
-- Reporting water hazards and safety concerns
-- Tracking reported incidents
-- Providing safety information and guidelines
-- Building community awareness about water safety
+Jaldrishti addresses the problem statement from INCOIS by combining modern web and mobile technologies to create an accessible platform for:
+- **Crowdsourced Reporting**: Citizens can report water hazards and safety concerns with geotagged data
+- **Real-time Tracking**: Monitor and track reported incidents with location-based visualization
+- **Community Awareness**: Provide safety information and guidelines to coastal communities
+- **Emergency Response Support**: Help disaster management agencies understand the scale and urgency of hazard events
+- **Multi-language Accessibility**: Support for multiple Indian regional languages for wider reach
+
+### Key Requirements Addressed
+✅ Geotagged hazard reporting with photos and location data  
+✅ Role-based access for citizens and officials  
+✅ Real-time data aggregation and visualization  
+✅ Mobile and web platform support  
+✅ Multilingual support for regional accessibility  
+✅ Offline data collection capabilities (sync later)  
+✅ User registration and authentication system  
+✅ Map-based dashboard for live crowd reports  
+✅ Backend database and API for data management
 
 ## 📁 Repository Structure
 
@@ -26,10 +51,25 @@ Located in the `Jaldrishti/` directory.
 The web application provides a user-friendly interface for accessing Jaldrishti services through web browsers.
 
 ### Features
-- Web-based hazard reporting
-- Interactive dashboard
-- Community safety resources
-- Cross-platform accessibility
+- 🚨 **Report Hazards**: Submit water-related hazard reports with photos and location data
+- 📊 **My Reports**: Track your submitted reports and their status
+- 🏠 **Home Dashboard**: View recent reports and safety alerts
+- 👤 **User Profile**: Manage your account and preferences
+- 🛡️ **Safety Information**: Access water safety guidelines and emergency contacts
+- 🌍 **Offline Support**: SQLite database for offline functionality in remote coastal areas
+- 🔔 **Push Notifications**: Stay informed about critical updates
+- 🌐 **Multi-language Support**: Available in multiple Indian languages for regional accessibility
+- 📍 **Geotagged Reporting**: Precise GPS location tracking for each hazard report
+- 📸 **Media Upload**: Support for photos and videos to document hazards
+- 🗺️ **Interactive Maps**: Visualize reports and hotspots geographically
+
+### Hazard Types Covered
+- Tsunamis and unusual tides
+- Storm surges and high waves
+- Swell surges and coastal currents
+- Coastal flooding and damage
+- Abnormal sea behavior
+- Other water-related hazards
 
 ### Technologies
 - Modern web technologies
@@ -219,18 +259,39 @@ This project is part of a water safety initiative. Please contact the repository
 
 ## 👥 Team
 
-Project maintained by Subham and contributors.
+**Smart India Hackathon 2025 - Team Jaldrishti**
+
+**Team Lead:** Subham
+
+This project was developed to address the critical challenge of crowdsourced ocean hazard reporting for the Ministry of Earth Sciences and INCOIS. Our solution aims to bridge the gap between real-time citizen observations and official disaster management systems, potentially saving lives and protecting coastal communities across India.
+
+**Project Status:** Prototype completed for SIH 2025
 
 ## 📞 Support
 
 For support, please open an issue in the GitHub repository or contact the development team.
 
+## 💡 Future Enhancements
+
+Potential features for future development:
+- Social media analytics integration (Twitter/X, Facebook, YouTube)
+- NLP engine for hazard-related keyword detection
+- Advanced sentiment analysis of public discussions
+- Dynamic hotspot generation based on report density
+- Integration with INCOIS early warning systems
+- API for third-party disaster management tools
+- Advanced data analytics and prediction models
+
 ## 🙏 Acknowledgments
 
+- Developed for **Smart India Hackathon (SIH) 2025**
+- Problem statement provided by **Indian National Centre for Ocean Information Services (INCOIS)** and **Ministry of Earth Sciences (MoES)**
 - Built with Flutter and Firebase
-- Generated with FlutterFlow for rapid development
+- Generated with FlutterFlow for rapid prototyping
 - Icons and assets from various open-source resources
+- Special thanks to mentors, coastal communities, and all supporters
 
 ---
 
-**Made with ❤️ for safer water environments**
+**Made with ❤️ for safer water environments | Smart India Hackathon 2025**  
+*Protecting India's coastal communities through technology*
